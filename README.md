@@ -2,7 +2,9 @@
 ## Arquitectura Contenedorizada: React + FastAPI + PostgreSQL
 
 **Versión:** 2.0  
-**Fecha:** 26/02/2026  
+
+**Fecha:** 26/02/2026
+
 **Stack:** React 18+ · FastAPI 0.100+ · PostgreSQL 16 · Docker Compose v2
 
 ---
