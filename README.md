@@ -1,4 +1,4 @@
-# Guía Profesional de Docker Compose
+# Documentación Técnica de Implementación de Docker y Docker Compose
 ## Arquitectura Contenedorizada: React + FastAPI + PostgreSQL
 
 **Versión:** 2.0  
